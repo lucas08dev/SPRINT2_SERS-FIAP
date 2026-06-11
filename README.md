@@ -27,7 +27,9 @@ Redução do consumo de fontes não renováveis.
 Melhor aproveitamento da energia produzida.
 Tomada de decisões baseada em dados.
 Incentivo ao uso de tecnologias sustentáveis.
+
 ⚙️ Funcionalidades
+
 Cadastro de Dados
 
 O usuário informa:
@@ -60,6 +62,7 @@ O sistema gera gráficos comparando:
 
 Energia gerada
 Consumo energético
+
 🏗️ Arquitetura da Solução
 
 Fluxo do sistema:
