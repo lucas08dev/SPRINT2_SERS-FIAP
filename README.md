@@ -1,4 +1,5 @@
 ☀️ EcoSolar Monitor
+
 📌 Sobre o Projeto
 
 O EcoSolar Monitor é um sistema desenvolvido em Python com o objetivo de simular o monitoramento de uma instalação de energia solar.
