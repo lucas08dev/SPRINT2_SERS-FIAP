@@ -88,10 +88,13 @@ Onde:
 Radiação Solar = W/m²
 Área = m²
 Eficiência = percentual de aproveitamento dos painéis
+
 💻 Tecnologias Utilizadas
+
 Python 3
 Matplotlib
 GitHub
+
 📊 Exemplo de Uso
 
 Entrada:
@@ -109,6 +112,7 @@ Saldo Energético: +280 Wh
 Classificação: Boa
 
 🚀 Como Executar
+
 Instalar dependências
 
 pip install matplotlib
