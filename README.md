@@ -9,11 +9,14 @@ A aplicação permite registrar dados de operação durante vários dias, calcul
 O projeto foi desenvolvido como uma Prova de Conceito (PoC) para demonstrar a viabilidade técnica de soluções voltadas para energias renováveis e eficiência energética.
 
 🎯 Objetivos
+
 Simular a geração de energia solar.
 Monitorar o consumo energético.
 Calcular indicadores de sustentabilidade.
 Identificar períodos de maior eficiência energética.
 Demonstrar a aplicação prática de conceitos de energia renovável.
+
+
 🌱 Sustentabilidade e Energias Renováveis
 
 A energia solar é uma das principais fontes de energia limpa disponíveis atualmente.
